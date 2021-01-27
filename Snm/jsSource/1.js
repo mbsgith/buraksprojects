@@ -1,0 +1,5 @@
+function karsila(){
+ alert("Merhaba !");
+}/**
+ * 
+ */

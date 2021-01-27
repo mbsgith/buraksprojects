@@ -1,0 +1,3 @@
+function karsila(){
+ alert("Merhaba !");
+}
